@@ -31,4 +31,4 @@ This repository contains the certifications I have earned across various domains
 
 ## Contact
 
-For any queries or further information, feel free to reach out at [your-email@example.com].
+For any queries or further information, feel free to reach out at pratikshabide.comp.nbnstic@gmail.com .
